@@ -4,8 +4,6 @@
 
 1. [Operating System](#1-operating-system)
 2. [Algorithm](#2-algorithm)
-3. [Data Structure](#3-data-structure)
-4. [Network](#4-network)
 
 ---
 
